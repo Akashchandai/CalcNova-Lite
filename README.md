@@ -60,7 +60,7 @@ Navigate to project folder:
 
 cd CalcNova-Lite
 
-![Calculator Screenshot](A:\My personal project\python projects\calculator.png)
+![Calculator Screenshot](https://github.com/Akashchandai/CalcNova-Lite/blob/92a20e234c46062436e91f11ce81abad98373dce/calculator.png)
 
 
 Run the file:
