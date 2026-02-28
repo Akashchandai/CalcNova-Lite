@@ -54,7 +54,7 @@ Install Python (if not installed)
 
 Clone the repository:
 
-git clone https://github.com/your-username/CalcNova-Lite.git
+git clone https://github.com/Akash-Chandai/CalcNova-Lite.git
 
 Navigate to project folder:
 
